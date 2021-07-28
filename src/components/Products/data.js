@@ -11,14 +11,14 @@ export const productData = [
     alt: 'Crêpes ',
     name: 'Crêpes',
     desc:
-      'crêpes Nutella',
+      'Crêpes Nutella',
     price: '2000 fcfa',
     button: 'Commandez'
   },
   {
     img: product2,
     alt: 'Sandwichs',
-    name: 'Sandwichs-pain sésame ',
+    name: 'Pain sésame au poulet curry ',
     desc:
       ' Emincé de poulet assaisonné au curry, salade, tomates',
     price: '1000 fcfa',
@@ -27,7 +27,7 @@ export const productData = [
   {
     img: product3,
     alt: 'Pains sesame au boulettes de boeufs',
-    name: 'Pains sesame au boulettes de boeufs',
+    name: 'Pains sesame aux boulettes de boeuf',
     desc:
       ' Boulettes de boeufs, salade, tomates',
     price: '1500 fcfa',

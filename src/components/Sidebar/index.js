@@ -26,6 +26,7 @@ const Sidebar = ({ isOpen, toggle }) => {
       </SidebarMenu>
       <SideBtnWrap>
         <SidebarRoute to='/'>Contactez nous</SidebarRoute>
+        <SidebarLink to='/'>656 13 68 98 </SidebarLink>
       </SideBtnWrap>
     </SidebarContainer>
   );

@@ -25,7 +25,7 @@ const Hero = () => {
         <HeroItems>
           <HeroH1>Dégustez nos jus 100% naturels,</HeroH1>
           <HeroP>Nos crêpes garnies, gaufres, etc..</HeroP>
-          <HeroBtn>Passez votre commande</HeroBtn>
+          <HeroBtn><a href="tel:+237 656136898" style= {{textDecoration:"none", color:"white" }}>Reservez</a></HeroBtn>
         </HeroItems>
       </HeroContent>
     </HeroContainer>
