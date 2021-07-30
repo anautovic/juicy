@@ -23,7 +23,7 @@ const Hero = () => {
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <HeroContent>
         <HeroItems>
-          <HeroH1>Dégustez nos jus 100% naturels,</HeroH1>
+          <HeroH1>Venez déguster nos jus 100% naturels</HeroH1>
           <HeroP>Nos crêpes garnies, gaufres, etc..</HeroP>
           <HeroBtn><a href="tel:+237 656136898" style= {{textDecoration:"none", color:"white" }}>Reservez</a></HeroBtn>
         </HeroItems>

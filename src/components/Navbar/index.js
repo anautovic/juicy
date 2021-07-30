@@ -35,7 +35,7 @@ const Navbar = ({ toggle }) => {
   return (
     <>
       <Nav navbar={navbar}>
-        <NavLink to='/'>Juicy fan's</NavLink>
+        <NavLink to='/'>Juicy Fan's et Caetera...</NavLink>
         <NavIcon onClick={toggle}>
           <p>Menu</p>
           <Bars />

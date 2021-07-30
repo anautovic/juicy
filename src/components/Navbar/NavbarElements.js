@@ -5,17 +5,19 @@ import {FaBars}  from 'react-icons/fa';
 
 
 export const NavLink = styled(Link)`
-  color: #fff;
+  color: white;
   font-size: 2rem;
   display: flex;
   align-items: center;
   text-decoration: none;
   cursor: pointer;
 
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 600px) {
     position: absolute;
     top: 10px;
-    left: 25px;
+    left: 10px;
+    font-size: 1.2rem;
+   
   }
 `;
 

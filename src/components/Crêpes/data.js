@@ -1,0 +1,77 @@
+const menu = [
+  {
+    id: 1,
+    title: 'SUCRE',
+    category: 'Crêpes et gaufres',
+    price: '750 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651940/samples/food/crepes_sv941g.jpg',
+    desc: ` `,
+  },
+  {
+    id: 2,
+    title: 'CONFITURE',
+    category: 'Crêpes et gaufres',
+    price: '1000 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepe_xo47up.jpg',
+    desc: ` `,
+  },
+  {
+    id: 3,
+    title: 'Caramel beurre salé',
+    category: 'Crêpes et gaufres',
+    price: '1500 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepe_xo47up.jpg',
+    desc: ` `,
+  },
+  {
+    id: 4,
+    title: 'Caramel beurre salé cookies',
+    category: 'Crêpes et gaufres',
+    price: '2000 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepe_xo47up.jpg',
+    desc: ` `,
+  },
+  {
+    id: 5,
+    title: 'NUTELLA',
+    category: 'Crêpes et gaufres',
+    price: "2000fcfa",
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepe-nutella_n0tkwg.jpg',
+    desc: ` `,
+  },
+  {
+    id: 6,
+    title: 'MIEL COOKIES',
+    category: 'Crêpes et gaufres',
+    price: '2000 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepes-miel_velppk.jpg',
+    desc: ` `,
+  },
+  {
+    id: 8,
+    title: 'SUPPLEMENT 1 BOULE DE GLACE ',
+    category: 'Crêpes et gaufres',
+    price: '700 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepe_xo47up.jpg',
+    desc: ` `,
+  },
+  {
+    id: 7,
+    title: 'SUPPLEMENT GARNITURE',
+    category: 'Crêpes et gaufres',
+    price: '500 fcfa',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627652006/samples/food/Nutella_isshpz.jpg',
+    desc: ` `,
+  },
+  {
+    id: 9,
+    title: 'MIEL',
+    category: 'Crêpes et gaufres',
+    price: '1500 fcfa ',
+    img: 'https://res.cloudinary.com/wil/image/upload/v1627651939/samples/food/crepes-miel_velppk.jpg',
+    desc: ` `,
+  },
+  
+  
+];
+export default menu;

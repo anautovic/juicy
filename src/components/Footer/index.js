@@ -22,15 +22,15 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <SocialLogo to='/'>Juicy fan's et caetera</SocialLogo>
+            <SocialLogo to='/'>Juicy fan's et caetera...</SocialLogo>
             <br/>
             <p style={{
               fontSize:'1rem', color: 'white'
-            }}>Nous sommes situés à Rue kouffra, Bali</p>
+            }}>Nous sommes situés à Rue koufra, Bali Douala-Cameroun</p>
             <br/>
             <p style={{
-              fontSize:'1rem', color: 'white'
-            }}>Douala-Cameroun</p>
+              fontSize:'1rem', color: 'white',marginBottom:'1rem'
+            }}>Tel: 655 944 162</p>
             <SocialIcons>
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />

@@ -16,17 +16,16 @@ const Sidebar = ({ isOpen, toggle }) => {
         <CloseIcon />
       </Icon>
       <SidebarMenu>
-        <SidebarLink to='/'>CRÊPES</SidebarLink>
-        <SidebarLink to='/'>SANDWICHS</SidebarLink>
-        <SidebarLink to='/'>GAUFRES</SidebarLink>
-        <SidebarLink to='/'>JUS NATURELS</SidebarLink>
-        <SidebarLink to='/'>PETIT DEJEUNER</SidebarLink>
-        <SidebarLink to='/'>AUTRES BOISSONS</SidebarLink>
+        <SidebarLink to='/crêpes-gaufres'>CRÊPES ET GAUFRES</SidebarLink>
+        <SidebarLink to='/sandwichs'>SANDWICHS</SidebarLink>
+        <SidebarLink to='/jus naturels-et-autres boissons'>JUS NATURELS ET AUTRES BOISSONS</SidebarLink>
+        <SidebarLink to='/petit-dejeuner'>PETIT DEJEUNER</SidebarLink>
+       
 
       </SidebarMenu>
       <SideBtnWrap>
         <SidebarRoute to='/'>Contactez nous</SidebarRoute>
-        <SidebarLink to='/'>656 13 68 98 </SidebarLink>
+        
       </SideBtnWrap>
     </SidebarContainer>
   );

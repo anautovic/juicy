@@ -26,7 +26,7 @@ export const productData = [
   },
   {
     img: product3,
-    alt: 'Pains sesame au boulettes de boeufs',
+    alt: 'Pains sésame au boulettes de boeufs',
     name: 'Pains sesame aux boulettes de boeuf',
     desc:
       ' Boulettes de boeufs, salade, tomates',
